@@ -26,7 +26,7 @@ const Navigation = () => {
             animate={{ opacity: 1, x: 0 }}
           >
             <SafeIcon icon={FiCpu} className="w-8 h-8 text-primary-400" />
-            <h1 className="text-xl font-bold text-white">Agentic AI</h1>
+            <h1 className="text-xl font-bold text-white">D-Optix</h1>
           </motion.div>
           
           <div className="flex space-x-1">
